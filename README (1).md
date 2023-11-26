@@ -20,30 +20,25 @@ Welcome to the Farmsave Application repository! This application allows farmers 
 ## User Interface
 
 <div align="center">
-    <img src="/screenshots/ss1.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss2.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss3.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
+    <img src="/Annadata/Picture1.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture2.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture3.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
 </div>
 <br><br><br><br>
 <div align="center">
-    <img src="/screenshots/ss4.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss5.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss6.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
+    <img src="/Annadata/Picture4.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture5.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture6.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
+</div>
+
+
+### Firebase Database
+<div align="center">
+    <img src="/screenshots/ss16.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
 </div>
 <br><br><br><br>
 <div align="center">
     <img src="/screenshots/ss8.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
     <img src="/screenshots/ss10.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
     <img src="/screenshots/ss11.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
-</div>
-<br><br><br><br>
-<div align="center">
-    <img src="/screenshots/ss12.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss13.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/screenshots/ss14.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
-</div>
-
-### Firebase Database
-<div align="center">
-    <img src="/screenshots/ss16.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
 </div>
