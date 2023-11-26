@@ -15,9 +15,9 @@ Welcome to the Farmsave Application repository! This application allows farmers 
 
 ## Technologies Used
 
-- Flutter : Cross-platform framework for building mobile applications.
-- Dart: Object-oriented programming language used in Flutter development.
-- Firebase: Backend-as-a-Service platform for authentication, real-time database, and push notifications.
+- **Flutter**: Cross-platform framework for building mobile applications.
+- **Dart**: Object-oriented programming language used in Flutter development.
+- **Firebase**: Backend-as-a-Service platform for authentication, real-time database, and push notifications.
 
 ## User Interface
 
