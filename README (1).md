@@ -38,6 +38,6 @@ Welcome to the Farmsave Application repository! This application allows farmers 
 </div>
 <br><br><br><br>
 <div align="center">
-    <img src="/Annadata/Picture7.png" alt="Image 1" width="580" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/Annadata/Picture8.png" alt="Image 2" width="580" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture9.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture10.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
 </div>
