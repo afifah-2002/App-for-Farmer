@@ -1,15 +1,14 @@
-# Bubble Chat Application ❄️
+# Farmsave 🌱☘️🌿
 
-Welcome to the Bubble Chat Application repository! This application allows patients to book doctors and engage in real-time chat conversations to express their queries and seek medical advice.
+Welcome to the Farmsave Application repository! This application allows farmers to book upload their crop details and interact with other farmers and vendors as well as get daily updates on the news and current weather.
 
 ## Features
 
-- Browse and search for doctors based on specialization, availability, and location.
-- Book appointments with doctors at preferred time slots.
-- Real-time chat functionality to communicate with doctors.
-- Secure and private messaging between patients and doctors.
-- Push notifications for appointment reminders and new messages.
-- Personalized patient profiles to manage appointments and chat history.
+- Browse and search for farmers and vendors.
+- Upoload crop details.
+- Real-time weather page for daily updates.
+- Latest news made available in the news page.
+- Smart connect page to interact and contact other farmers.
 - Integration with Firebase Authentication for user authentication and data security.
 
 ## Technologies Used
