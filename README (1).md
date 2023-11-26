@@ -20,15 +20,15 @@ Welcome to the Farmsave Application repository! This application allows farmers 
 ## User Interface
 
 <div align="center">
-    <img src="/Annadata/Picture1.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/Annadata/Picture2.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/Annadata/Picture3.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
+    <img src="/Annadata/Picture1.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture2.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture3.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
 </div>
 <br><br><br><br>
 <div align="center">
-    <img src="/Annadata/Picture4.jpg" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/Annadata/Picture5.jpg" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/Annadata/Picture6.jpg" alt="Image 3" width="250" height="580" style="display: inline-block;">
+    <img src="/Annadata/Picture4.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture5.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/Annadata/Picture6.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
 </div>
 
 
