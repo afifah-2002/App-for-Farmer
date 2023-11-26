@@ -1,5 +1,4 @@
-# App-for-Farmer
-Farmsave is an application that facilitates farmers in connecting with peers and vendors, offering a platform to sell their crops while providing essential agricultural insights for improved productivity.
+
 # Farmsave 🌱☘️🌿
 
 Welcome to the Farmsave Application repository! This application allows farmers to book upload their crop details and interact with other farmers and vendors as well as get daily updates on the news and current weather.
