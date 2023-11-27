@@ -1,12 +1,12 @@
 
-# Farmsave (ANNADATA)🌱☘️🌿
+# Farmsave (Annadata)🌱☘️🌿
 
 Welcome to the Farmsave Application repository! This application allows farmers to book upload their crop details and interact with other farmers and vendors as well as get daily updates on the news and current weather.
 
 ## Features
 
 - Browse and search for farmers and vendors.
-- Upoload crop details.
+- Upload crop details.
 - Real-time weather page for daily updates.
 - Latest news made available in the news page.
 - Smart connect page to interact and contact other farmers.
